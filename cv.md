@@ -16,3 +16,5 @@
 |   |**Viber**|
 |   |**WhatsApp**|
 |   |**Telegramm**|
+|3  |*Summary*|
+|   |Specifically, I like creating something out of nothing. There is an idea and you build it from the ground up. When you begin, there's just an empty text editor. When you're done, there's a working program in the end. I like research. Programming tends to involve much googling and reading through documentation.For me, EPAM is a good company to start my career to realize a lot of things and  idea's|
