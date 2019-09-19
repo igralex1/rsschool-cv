@@ -20,3 +20,7 @@
 |   |Specifically, I like creating something out of nothing. There is an idea and you build it from the ground up. When you begin, there's just an empty text editor. When you're done, there's a working program in the end. I like research. Programming tends to involve much googling and reading through documentation.For me, EPAM is a good company to start my career to realize a lot of things and  idea's|
 |4  |*Skills*|
 |   |The last years I'm involved in web technologies and studied programming languages such as ***C#, Java, C++, JavaScript, HTML, CSS***. I was having practice with ***Bootstrap*** and ***React*** library, ***Software design pattern***. Now I'm look at ***GIT***, which complements my abilities in web.|
+|5  |*Example of code*|
+|   |Mini Blog|
+|   |Site with javascript|
+|   |PHP + Bootstrap |
