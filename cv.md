@@ -24,3 +24,13 @@
 |   |[Mini Blog](https://igralex1.github.io/BlogRealese/)|
 |   |[Site with javascript](https://igralex1.github.io/SiteWIthJS/)|
 |   |[PHP + Bootstrap](https://igralex1.github.io/adminkaPHPbootstrap) *error 404 File not found*|
+|6  |*Experience*|
+|   |Practice in IT STEP ACADEMY and my links on GITHUB|
+|7  |*Education* |
+|   |Belarusian State University of Informatics and Radioelectronics *2009 - 2014* |
+|   |IT STEP Computer Academy in the “Software Development” direction *2015 - at the end of 2107*|
+|   | EPAM JavaScript Development Q1  *2019*|
+|8  |*English level*|
+|   |I'm finished secondary school focused on *English*|
+|   |I'm reading English book (	*English Essential Grammar in Use - Raymond Murphy*)|
+|   |English test show *A2 - level*|
