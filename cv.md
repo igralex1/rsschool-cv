@@ -21,6 +21,6 @@
 |4  |*Skills*|
 |   |The last years I'm involved in web technologies and studied programming languages such as ***C#, Java, C++, JavaScript, HTML, CSS***. I was having practice with ***Bootstrap*** and ***React*** library, ***Software design pattern***. Now I'm look at ***GIT***, which complements my abilities in web.|
 |5  |*Example of code*|
-|   |Mini Blog|
-|   |Site with javascript|
-|   |PHP + Bootstrap |
+|   |[Mini Blog](https://igralex1.github.io/BlogRealese/)|
+|   |[Site with javascript](https://igralex1.github.io/SiteWIthJS/)|
+|   |[PHP + Bootstrap](https://igralex1.github.io/adminkaPHPbootstrap) *error 404 File not found*|
